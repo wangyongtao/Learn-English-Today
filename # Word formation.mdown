@@ -57,10 +57,8 @@ We also use conversion when we change a proper noun into a common noun:
 
 When we use compounding, we link together two or more bases to create a new word. 
 Normally, the first item identifies a key feature of the second word. 
-
-For example:  
-the two bases back and ache can combine to form the compound noun backache  
-the two bases post and card combine to form the compound noun postcard 
+For example, the two bases back and ache can combine to form the compound noun backache, 
+and the two bases post and card combine to form the compound noun postcard.
 
 Compounds are found in all word classes. 
 The most common types of compounds are: 
@@ -70,8 +68,7 @@ Adjectives: heartbreaking, sugar-free, airsick
 Verbs: oven-bake, baby-sit, chain-smoke
 Adverbs: good-naturedly, nevertheless
 
-It is sometimes difficult to know where to put hyphens(连字符) in words that are compound ed. It is also difficult to know whether to separate words (e.g. post box) or to join the words (e.g. postbox). 
-In such cases, it is best to check in a good learner’s dictionary.
+It is sometimes difficult to know where to put hyphens in words that are compound ed. It is also difficult to know whether to separate words (e.g. post box) or to join the words (e.g. postbox). In such cases, it is best to check in a good learner’s dictionary.
 
 See also:
 
